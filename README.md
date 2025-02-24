@@ -1,4 +1,4 @@
-# The-Friendliness-Benchmark
+# The Friendly Benchmark
 Dataset and example code for evaluating 0shot-TC models as per The Friendliness Benchmark, which I have designed.
 
 Warning: The LLMs make offensive classifications. The purpose of this benchmark is to help researchers make 0shot-TC models more friendly.
